@@ -1,4 +1,4 @@
-# BEP20-Smart-Contract
+# BEP20 Smart Contract
 ## Binance (BEP20) token simple smart contract template using Solidity
 #### This is not an finished project, it provides basic functionality and basic knowladge about building and deploying an smart contract on binance smart chain. Could be used as an quick start boilerplate.
 
